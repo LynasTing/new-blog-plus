@@ -10,6 +10,7 @@
   <packaging>pom</packaging>
   <modules>
     <module>lynasting-blog-framework</module>
+    <module>lynasting-blog-web</module>
   </modules>
 
   <properties>
